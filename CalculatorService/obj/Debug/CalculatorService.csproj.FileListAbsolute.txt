@@ -1,0 +1,7 @@
+E:\Study\Code\WCF\CalculatorService\bin\CalculatorService.dll.config
+E:\Study\Code\WCF\CalculatorService\bin\CalculatorService.dll
+E:\Study\Code\WCF\CalculatorService\bin\CalculatorService.pdb
+E:\Study\Code\WCF\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+E:\Study\Code\WCF\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+E:\Study\Code\WCF\CalculatorService\obj\Debug\CalculatorService.dll
+E:\Study\Code\WCF\CalculatorService\obj\Debug\CalculatorService.pdb
